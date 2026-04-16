@@ -73,6 +73,17 @@ img {
   z-index: 100;
 }
 
+.nav-tagline {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--slate);
+  letter-spacing: 1px;
+  pointer-events: none;
+}
+
 .nav-logo-img {
   height: 40px;
   width: auto;
