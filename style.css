@@ -73,15 +73,10 @@ img {
   z-index: 100;
 }
 
-.nav-logo {
-  font-size: 18px;
-  font-weight: 700;
-  color: var(--dark);
-  letter-spacing: -0.3px;
-}
-
-.nav-logo span {
-  color: var(--gold);
+.nav-logo-img {
+  height: 48px;
+  width: auto;
+  display: block;
 }
 
 .nav-links {
