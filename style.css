@@ -74,9 +74,11 @@ img {
 }
 
 .nav-logo-img {
-  height: 48px;
+  height: 40px;
   width: auto;
+  max-width: 200px;
   display: block;
+  object-fit: contain;
 }
 
 .nav-links {
